@@ -1,2 +1,4 @@
 # e-Commerce-Market-Funnelling-Analysis
 An interactive Tableau dashboard analyzing the e-commerce customer journey through the marketing funnel. Users can explore behavior across product categories, devices, and traffic sources to identify where customers drop off and uncover opportunities for optimization.
+
+<a href="https://colab.research.google.com/drive/1hv0RGcniT2eVEmD9tEQP5UP3tIjP12oq?usp=sharing"> Online Version through Google Colabs
